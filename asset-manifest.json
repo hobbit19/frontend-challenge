@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/frontend-challenge/static/css/main.dd5999c9.chunk.css",
-    "main.js": "/frontend-challenge/static/js/main.e73e691d.chunk.js",
-    "main.js.map": "/frontend-challenge/static/js/main.e73e691d.chunk.js.map",
+    "main.js": "/frontend-challenge/static/js/main.873eb138.chunk.js",
+    "main.js.map": "/frontend-challenge/static/js/main.873eb138.chunk.js.map",
     "runtime-main.js": "/frontend-challenge/static/js/runtime-main.516e6923.js",
     "runtime-main.js.map": "/frontend-challenge/static/js/runtime-main.516e6923.js.map",
     "static/js/2.75978a33.chunk.js": "/frontend-challenge/static/js/2.75978a33.chunk.js",
     "static/js/2.75978a33.chunk.js.map": "/frontend-challenge/static/js/2.75978a33.chunk.js.map",
     "index.html": "/frontend-challenge/index.html",
-    "precache-manifest.725480592ced292b3b4d2d698412f85f.js": "/frontend-challenge/precache-manifest.725480592ced292b3b4d2d698412f85f.js",
+    "precache-manifest.49cdb999d7a3d9b063d46677fbb2e010.js": "/frontend-challenge/precache-manifest.49cdb999d7a3d9b063d46677fbb2e010.js",
     "service-worker.js": "/frontend-challenge/service-worker.js",
     "static/css/main.dd5999c9.chunk.css.map": "/frontend-challenge/static/css/main.dd5999c9.chunk.css.map",
     "static/js/2.75978a33.chunk.js.LICENSE.txt": "/frontend-challenge/static/js/2.75978a33.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.516e6923.js",
     "static/js/2.75978a33.chunk.js",
     "static/css/main.dd5999c9.chunk.css",
-    "static/js/main.e73e691d.chunk.js"
+    "static/js/main.873eb138.chunk.js"
   ]
 }
